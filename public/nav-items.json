@@ -1,0 +1,27 @@
+[
+  {
+    "id": "time-tracker",
+    "name": "Time tracker",
+    "icon": "clock"
+  },
+  {
+    "id": "calendar",
+    "name": "Calender",
+    "icon": "clock"
+  },
+  {
+    "id": "Dashboard",
+    "name": "Dashboard",
+    "icon": "clock"
+  },
+  {
+    "id": "reports",
+    "name": "Reports",
+    "icon": "clock"
+  },
+  {
+    "id": "projects",
+    "name": "Projects",
+    "icon": "clock"
+  }
+]

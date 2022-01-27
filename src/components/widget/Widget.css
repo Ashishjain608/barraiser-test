@@ -1,0 +1,8 @@
+.widget {
+  display: flex;
+  margin: 1rem;
+  justify-content: space-around;
+}
+.task-input {
+  width: 40%;
+}
